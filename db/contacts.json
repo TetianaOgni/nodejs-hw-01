@@ -59,9 +59,6 @@
     "email": "tatianaognivenko@gmail.com"
   },
   {
-    "id": "xZjCySPatDT55U6jgmWga"
-  },
-  {
     "id": "DifkXHY7tLJDISeo_eYFu",
     "name": "Masha",
     "email": "mary@agni.rt",
@@ -69,6 +66,12 @@
   },
   {
     "id": "A-ysgvsW1MWQt6w9rO-jp",
+    "name": "Mango",
+    "email": "mango@gmail.com",
+    "phone": "322-22-22"
+  },
+  {
+    "id": "_3-r_25WcrnZlar2rCc6g",
     "name": "Mango",
     "email": "mango@gmail.com",
     "phone": "322-22-22"
